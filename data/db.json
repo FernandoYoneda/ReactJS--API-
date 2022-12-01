@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Teste",
+      "price": "12",
+      "id": 6
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": 7
+    },
+    {
+      "name": "mouse",
+      "price": "90",
+      "id": 8
+    },
+    {
+      "name": "cadeira",
+      "price": "200",
+      "id": 9
+    },
+    {
+      "name": "monitor",
+      "price": "1200",
+      "id": 10
+    },
+    {
+      "name": "cabo hdmi",
+      "price": "10",
+      "id": 12
+    },
+    {
+      "name": "suporte microfone ",
+      "price": "60",
+      "id": 15
+    },
+    {
+      "name": "touchpad",
+      "price": "30",
+      "id": 17
+    },
+    {
+      "name": "cooler",
+      "price": "120",
+      "id": 18
+    }
+  ]
+}
